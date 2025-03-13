@@ -1,0 +1,53 @@
+/* Minimal styling */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background: #ffffff;
+}
+
+.header {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}
+
+table {
+    width: 100%;
+    border: none;
+    margin: 10px 0;
+}
+
+td {
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 20px 0;
+}
